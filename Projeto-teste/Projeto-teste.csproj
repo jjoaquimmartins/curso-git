@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Projeto_teste</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="I:\Cursos Udemy\C sharp\ws-vs2019\Projeto-teste\Projeto-teste\Program.cs" Link="Program.cs" />
+  
+  </ItemGroup>
+
+</Project>
